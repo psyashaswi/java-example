@@ -3,7 +3,7 @@ package javapractise;
 public class HelloWorld extends Addition{
 
 	public static void main(String[] args) {
-		System.out.println("hello world!!!");
+		System.out.println("Hello world");
 
 		int a = 5;
 		int b = 10;
